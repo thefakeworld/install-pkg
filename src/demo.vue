@@ -1,4 +1,7 @@
 <script lang="ts" setup>
+const a = require('./detect')
+
+
 const onClick = () => {
   // console.log('saglsdkgj')
   const a = 1
